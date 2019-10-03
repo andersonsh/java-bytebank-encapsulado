@@ -11,7 +11,7 @@ public class TestaBiblioteca {
 		
 		c.deposita(200.3);
 		
-		System.out.println(c.getSaldo());
+		System.out.println("O saldo é: " + c.getSaldo());
 	}
 
 }
